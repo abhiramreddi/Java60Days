@@ -12,5 +12,7 @@ class Box{
     public static void main(String[] args) {
         Main main = new Main();
         System.out.println(main.toString());
+
+        System.out.println("Happy");
     }
 }
