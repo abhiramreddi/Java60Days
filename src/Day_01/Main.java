@@ -16,3 +16,8 @@ class Box{
         System.out.println("Happy");
     }
 }
+class  Temp{
+    public static void main(String[] args) {
+        System.out.println("hi");
+    }
+}
