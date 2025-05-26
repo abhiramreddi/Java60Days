@@ -5,3 +5,12 @@ public class Main {
         System.out.println("Hello");
     }
 }
+
+//this is a temp message
+
+class Box{
+    public static void main(String[] args) {
+        Main main = new Main();
+        System.out.println(main.toString());
+    }
+}
